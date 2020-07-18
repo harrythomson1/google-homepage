@@ -1,1 +1,1 @@
-This is my first attempt at a html page, recreating the google homepage.
+This is my first attempt at an html page, recreating the google homepage.
