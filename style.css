@@ -38,8 +38,11 @@ a {
 }
 
 #icon {
-    height: 20px;
-    width: 45px;
+    position: relative;
+    height: 30px;
+    width: 30px;
+    right: 3px;
+    bottom: 5px;
 }
 
 
